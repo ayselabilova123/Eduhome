@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Utilities\bin\Debug\Utilities.dll
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Utilities\bin\Debug\Utilities.pdb
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Utilities\obj\Debug\Utilities.dll
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Utilities\obj\Debug\Utilities.pdb
